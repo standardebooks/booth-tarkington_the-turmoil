@@ -11,6 +11,11 @@ blockquote header,
 	font-variant: small-caps;
 }
 
+[epub|type~="z3998:poem"] header p{
+	margin: 1em;
+	text-align: center;
+}
+
 [epub|type~="z3998:poem"] p,
 [epub|type~="z3998:song"] p,
 [epub|type~="z3998:verse"] p{

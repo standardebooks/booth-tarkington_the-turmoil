@@ -72,12 +72,12 @@
 		<meta property="file-as" refines="#author">Tarkington, Booth</meta>
 		<meta property="se:name.person.full-name" refines="#author">Newton Booth Tarkington</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Booth_Tarkington</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79078124</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79078124</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Colin Campbell Cooper</dc:contributor>
 		<meta property="file-as" refines="#artist">Cooper, Colin Campbell</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Colin_Campbell_Cooper</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n81107915</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n81107915</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Lois Heiser</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Heiser, Lois</meta>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/booth-tarkington/the-turmoil</dc:identifier>
 		<dc:date>2020-10-04T18:35:04Z</dc:date>
@@ -55,13 +55,13 @@
 		<meta id="collection-1" property="belongs-to-collection">Growth Trilogy</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:description id="description">A dreamy and sensitive scion of a Midwestern businessman comes to terms with his legacy in a growing city.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A dreamy and sensitive scion of a Midwestern businessman comes to terms with his legacy in a growing city.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Bibbs is the dreamy, sensitive son of Mr. Sheridan, a cigar-chomping, larger-than-life businessman in the turn-of-the-century American Midwest. Sheridan made his fortune in the rapid industrialization that was overtaking the small towns and cities of America, but Bibbs—named so “mainly through lack of imagination on his mother’s part”—is too sickly to help his father in Sheridan’s relentless quest for “Bigness.”&lt;/p&gt;
 			&lt;p&gt;The Sheridan family moves to a house next door to the old-money Vertrees family, whose fortunes have declined precipitously in this new era’s thirst for industry. Bibbs makes fast friends with Mary, Vertrees’ daughter; but as he tries to make a life for himself as a poet and writer, away from the cutthroat world of business, he must face off against the relentless drum of money, growth, and Bigness that has consumed American small-town life.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Turmoil&lt;/i&gt; is the first book in &lt;a href="https://standardebooks.org/ebooks/booth-tarkington"&gt;Tarkington’s&lt;/a&gt; &lt;a href="https://standardebooks.org/collections/growth-trilogy"&gt;Growth trilogy&lt;/a&gt;, a series that explores the destruction of traditional small-town America in favor of industrialization, pollution, automobiles, overcrowding, and suburbia. Tarkington makes no secret of his opinion on the matter: the trilogy is filled with acrid smoke, towering buildings crammed with people, noise and deadly accidents caused by brand-new cars, brutal working conditions, and a yearning for the clean, bright, slow, dignified days of yore.&lt;/p&gt;
 			&lt;p&gt;The book was made in to two silent films just eight years apart from each other. Its sequel, &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/booth-tarkington/the-magnificent-ambersons"&gt;The Magnificent Ambersons&lt;/a&gt;&lt;/i&gt;, went on to win the Pulitzer prize in 1919.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1098</dc:source>
 		<dc:source>https://books.google.com/books?id=h4g1AAAAMAAJ</dc:source>

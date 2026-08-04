@@ -55,7 +55,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Growth Trilogy</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:abstract>A dreamy and sensitive scion of a Midwestern businessman comes to terms with his legacy in a growing city.</dc:abstract>
+		<meta property="schema:abstract">A dreamy and sensitive scion of a Midwestern businessman comes to terms with his legacy in a growing city.</meta>
 		<dc:description>
 			&lt;p&gt;Bibbs is the dreamy, sensitive son of Mr. Sheridan, a cigar-chomping, larger-than-life businessman in the turn-of-the-century American Midwest. Sheridan made his fortune in the rapid industrialization that was overtaking the small towns and cities of America, but Bibbs—named so “mainly through lack of imagination on his mother’s part”—is too sickly to help his father in Sheridan’s relentless quest for “Bigness.”&lt;/p&gt;
 			&lt;p&gt;The Sheridan family moves to a house next door to the old-money Vertrees family, whose fortunes have declined precipitously in this new era’s thirst for industry. Bibbs makes fast friends with Mary, Vertrees’ daughter; but as he tries to make a life for himself as a poet and writer, away from the cutthroat world of business, he must face off against the relentless drum of money, growth, and Bigness that has consumed American small-town life.&lt;/p&gt;
